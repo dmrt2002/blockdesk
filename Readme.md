@@ -30,8 +30,7 @@ expo init my-app --template @native-base/expo-template
 
 ## Screenshots
 
-*Mobile Version*
 ![Screenshot](Home.png)
 
-*Desktop Version*
+
 ![Screenshot](Dashboard.png)
